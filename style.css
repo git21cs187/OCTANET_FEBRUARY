@@ -1,0 +1,215 @@
+.main{
+    background-color: rgb(155, 212, 205);
+    background-image: url(img3.jpg);
+    
+}
+
+
+
+.d1{
+    
+    border-style: double;
+    border-radius: 20px;
+    background-color: rgb(231, 196, 255);
+    background-image: url(img2.jpg);
+}
+.p1{
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style:italic;
+    text-shadow: 30px;
+    text-decoration:underline;
+    font-size: x-large;
+}
+
+.p2{
+    text-align:justify;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style:italic;
+    text-shadow: 30px;
+    text-decoration:dotted;
+    font-size: x-large;
+    text-decoration: underline;
+}
+
+.p3{
+    text-align:left;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style:italic;
+    text-shadow: 30px;
+    text-decoration:dotted;
+    font-size: x-large;
+    text-decoration: underline;
+}
+  
+#t1{
+    text-align: center;
+    font-family:cursive;
+    font-style:italic;
+    text-decoration:underline;
+    font-size:40px;
+    font-weight: 200;
+    margin-right: 6px;
+    margin-left: 6px;
+    text-decoration:double;
+    text-overflow: ellipsis ;
+    text-indent: 0cap;
+    padding-block: 20px;
+    padding-right: 6px;
+    padding-left: 6px;
+    
+    border-radius: 40px;
+    height:100px;
+
+}
+
+.d11{
+    background-color: rgb(213, 184, 228);
+    width: fit-content;
+    margin-right: 30px;
+    margin-left: 40px;
+    margin-top: 80px;
+    padding-block: 50px;
+    padding-right: 40px;
+    padding-left: 60px;
+    display: inline-block;
+    border-radius: 30px;
+    border-style:double;
+    height:230px;
+}
+
+.d12{
+    background-color:bisque;
+    width: fit-content;
+    margin-right: 30px;
+    margin-left: 40px;
+    margin-top: 50px;
+    padding-block: 50px;
+    padding-right: 20px;
+    padding-left: 40px;
+    display: inline-block;
+    border-radius: 25px;
+    border-style: solid;
+    border-style: double;
+
+}
+
+
+.d13{
+    background-color:rgb(175, 211, 246);
+    width: fit-content;
+    margin-right: 20px;
+    margin-left: 40px;
+    margin-top: 50px;
+    padding-block: 50px;
+    padding-right: 30px;
+    padding-left: 40px;
+    display: inline-block;
+    border-radius: 25px;
+    border-style: solid;
+    border-style: double;
+
+}
+
+.d14{
+    background-color:rgb(198, 147, 126);
+    width: fit-content;
+    margin-right: 20px;
+    margin-left: 40px;
+    margin-top: 50px;
+    padding-block: 50px;
+    padding-right: 30px;
+    padding-left: 40px;
+    display: inline-block;
+    border-radius: 25px;
+    width: 200px;
+    height:220px;
+    border-style: solid;
+    border-style: double;
+
+}
+
+.d15{
+    background-color:rgb(238, 148, 186);
+    width: fit-content;
+    margin-right: 40px;
+    margin-left: 40px;
+    margin-top: 50px;
+    padding-block: 50px;
+    padding-right: 30px;
+    padding-left: 40px;
+    display:inline-block;
+    border-radius: 25px;
+    width:220px;
+    height:215px;
+    border-style: solid;
+    border-style: double;
+
+}
+
+.d16{
+    background-color:rgb(121, 222, 211);
+    width: 400px;
+    margin-right: 40px;
+    margin-left: 40px;
+    margin-top: 50px;
+    padding-block: 40px;
+    padding-right: 20px;
+    padding-left: 20px;
+    display:inline-block;
+    border-radius: 25px;
+    width:225px;
+    height:218px;
+    border-style: solid;
+    border-style: double;
+
+}
+
+.d17{
+    background-color:rgb(251, 116, 116);
+    width: 400px;
+    margin-right: 40px;
+    margin-left: 40px;
+    margin-top: 40px;
+    padding-block: 40px;
+    padding-right: 20px;
+    padding-left: 20px;
+    display:inline-block;
+    border-radius: 25px;
+    width: 225px;
+    height:218px;
+    border-style: solid;
+    border-style: double;
+
+}
+
+.s1{
+    background-color: brown;
+}
+
+.s2{
+    background-color: rgb(11, 98, 41);
+}
+
+.s3{
+    background-color: rgb(70, 20, 178);
+}
+
+.s4{
+   
+    background-color: rgb(205, 29, 123);
+}
+
+.b1{
+   
+    border-radius: 30px;
+    background-color: rgb(146 196 124);
+    font-size:larger;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    
+    font-style:normal;
+    border-color: antiquewhite;
+    border-style: ridge;
+    display: inline-block;
+}
